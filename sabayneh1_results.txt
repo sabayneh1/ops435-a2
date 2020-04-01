@@ -1,0 +1,48 @@
+User list for usage_data_file
+=============================
+asmith
+bigia
+cwsmith
+hfang
+mlee18
+mshana
+rchan
+tsliu2
+Host list for usage_data_file
+=============================
+10.40.105.130
+10.40.43.94
+10.40.91.236
+10.40.91.247
+10.43.115.162
+24.114.50.50
+Daily Usage Report for rchan
+============================
+Date          Usage in Seconds
+2018 02 13        1580
+Total             1580
+Daily Usage Report for cwsmith
+==============================
+Date          Usage in Seconds
+2018 02 13         266
+Total              266
+Daily Usage Report for 10.40.105.130
+====================================
+Date          Usage in Seconds
+2018 02 13        7969
+Total             7969
+Weekly Usage Report for rchan
+=============================
+Week #        Usage in Seconds
+2018 07           1580
+Total             1580
+Weekly Usage Report for cwsmith
+===============================
+Week #        Usage in Seconds
+2018 07            266
+Total              266
+Weekly Usage Report for 10.40.105.130
+=====================================
+Week #        Usage in Seconds
+2018 07           7969
+Total             7969
